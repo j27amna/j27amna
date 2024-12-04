@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j27amna&label=Profile%20views&color=0e75b6&style=flat" alt="j27amna" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/j27amna](https://github.com/j27amna)
 
